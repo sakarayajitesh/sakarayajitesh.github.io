@@ -1964,3 +1964,27 @@ h4.modal-title {
     font-size: 10px;
     right: 0;
 }
+
+
+
+@media(min-width:992){
+.contact{
+	padding-right:5em;
+	}
+	.beach{
+		width:25% !important;
+		margin-top:5em;
+		margin-left:6em;
+		}
+}
+
+
+@media(max-width:600px){
+.contact{
+	padding-right:0;
+	}
+	.beach{
+		width: 60%;
+	    margin-left: 5em;
+	}
+}
